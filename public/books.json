@@ -1,0 +1,237 @@
+[
+    {
+      "id": 1,
+      "name": "Story Book",
+      "title": "A tale of adventure and mystery.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 2,
+      "name": "Magic Tales",
+      "title": "Dive into a world of magical tales.",
+      "price": 10,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 3,
+      "name": "Science Wonders",
+      "title": "Explore the wonders of science.",
+      "price": 15,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 4,
+      "name": "History Unveiled",
+      "title": "Delve into the mysteries of history.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 5,
+      "name": "Creative Writing",
+      "title": "Learn to express your creativity through writing.",
+      "price": 8,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 6,
+      "name": "Fantasy Realms",
+      "title": "Explore mystical lands and epic adventures.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 7,
+      "name": "World Atlas",
+      "title": "Discover the beauty of the world.",
+      "price": 12,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 8,
+      "name": "Coding Basics",
+      "title": "Learn the foundations of programming.",
+      "price": 20,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 9,
+      "name": "Art of Cooking",
+      "title": "Master the art of cooking delicious recipes.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 10,
+      "name": "The Great Novel",
+      "title": "An epic story of love and loss.",
+      "price": 18,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 11,
+      "name": "Mindfulness",
+      "title": "Learn how to find peace and clarity.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 12,
+      "name": "Graphic Design Basics",
+      "title": "Create visually stunning designs.",
+      "price": 25,
+      "category": "Paid",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    },
+    {
+      "id": 13,
+      "name": "Health and Wellness",
+      "title": "Tips for a healthy and fulfilling life.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+    } ,
+
+    {
+        "id": 14,
+        "name": "Photography 101",
+        "title": "Master the basics of photography.",
+        "price": 30,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 15,
+        "name": "Travel Diaries",
+        "title": "Experience the world through travel stories.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 16,
+        "name": "Digital Marketing",
+        "title": "Learn how to grow your business online.",
+        "price": 22,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 17,
+        "name": "Poetry Collection",
+        "title": "A beautiful collection of poems.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 18,
+        "name": "AI and Robotics",
+        "title": "Understand the future of technology.",
+        "price": 35,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 19,
+        "name": "Gardening Tips",
+        "title": "Grow your own beautiful garden.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 20,
+        "name": "Space Exploration",
+        "title": "Learn about the universe beyond Earth.",
+        "price": 28,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 21,
+        "name": "Adventure Chronicles",
+        "title": "Tales of courage and discovery.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 22,
+        "name": "Mystery Novels",
+        "title": "Immerse yourself in thrilling mysteries.",
+        "price": 18,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 23,
+        "name": "Self-Improvement",
+        "title": "Unlock your true potential.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 24,
+        "name": "Horror Stories",
+        "title": "Spine-chilling tales of terror.",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 25,
+        "name": "Language Learning",
+        "title": "Master a new language easily.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 26,
+        "name": "Economics Simplified",
+        "title": "Understand complex economics in simple terms.",
+        "price": 25,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 27,
+        "name": "Children's Stories",
+        "title": "Enchanting tales for the little ones.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 28,
+        "name": "Business Strategies",
+        "title": "Learn how to grow your business effectively.",
+        "price": 32,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      },
+      {
+        "id": 29,
+        "name": "Fitness and Nutrition",
+        "title": "Achieve your fitness goals with ease.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735229090~exp=1735232690~hmac=b861b81ad0e1a17a69aae4fc66877b805dfb97dc7eaf76262bbc323a8788763d&w=740"
+      }
+
+  ]
+  
